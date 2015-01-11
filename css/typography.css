@@ -210,3 +210,11 @@ sub {
   padding-left: 0.3750rem;
   padding-right: 0.3750rem;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Abril Fatface", sans-serif;
+}
+
+p, ul, li {
+    font-family: serif;
+}
