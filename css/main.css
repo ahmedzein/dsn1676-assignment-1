@@ -53,11 +53,43 @@ html {
 }
 
 .logo-two {
-    margin: 0 0.4em 0 0;
-    width: 2.5em;
-    text-align: center;
+    background-image: url(../images/logo-two.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+}
+
+.logo-three {
+    background-image: url(../images/logo-three.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
 }
 
 .text-box {
     color: white;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
