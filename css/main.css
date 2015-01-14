@@ -60,6 +60,14 @@ html {
     display: block;
 }
 
+.logo-three {
+    height: 3rem;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 .text-box {
     color: white;
 }
